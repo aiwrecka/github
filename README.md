@@ -1,2 +1,2 @@
-# gihub
+# github
 Testing git with markdown :)
